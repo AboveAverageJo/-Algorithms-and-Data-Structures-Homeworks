@@ -1,0 +1,4 @@
+﻿  autocompleter.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AutoComplete\AutoComplete\AutoComplete\autocompleter.cpp(166,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AutoComplete\AutoComplete\AutoComplete\autocompleter.cpp(181,23): warning C4018:  '<': signed/unsigned mismatch
+  AutoComplete.vcxproj -> C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AutoComplete\AutoComplete\Debug\AutoComplete.exe

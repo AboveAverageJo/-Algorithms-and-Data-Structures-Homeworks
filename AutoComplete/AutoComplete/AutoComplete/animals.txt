@@ -1,0 +1,13 @@
+aardvark 629356
+albatross 553191
+alpaca 852363
+armadillo 393754
+cat 46839855
+camel 11005001
+crocodile 1658300
+crow 4592109
+giraffe 978584
+goat 5231735
+goatfish 19984
+goose 3739382
+gorilla 1931906
