@@ -1,0 +1,165 @@
+﻿  main.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(126,15): error C2059:  syntax error: ')'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(138,2): error C2143:  syntax error: missing ';' before 'void'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(38,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(138): message :  see reference to class template instantiation 'MinPriorityQueue<T>' being compiled
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(48,3): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(49,3): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(49,28): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(50,12): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(62,8): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(62,22): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(64,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(64,16): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,10): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,12): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,25): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,27): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(67,13): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(67,27): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(81,12): error C2065:  'smallestChild': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(81,12): error C3861:  'smallestChild': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(81,25): message :  'smallestChild': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(89,8): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(89,23): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(91,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(91,17): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,10): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,12): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,26): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,28): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(97,13): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(97,27): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(101,13): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(101,28): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(106,9): error C2065:  'smallestChild': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(106,9): error C3861:  'smallestChild': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(106,22): message :  'smallestChild': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(117,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(126,15): error C2760:  syntax error: unexpected token '.', expected 'declaration'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(140,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(144,12): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(146,4): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,9): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,15): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,17): error C2672:  'std::size': no matching overloaded function found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,22): error C2780:  'size_t std::size(const _Ty (&)[_Size]) noexcept': expects 1 arguments - 0 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(1154): message :  see declaration of 'std::size'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,22): error C2780:  'unknown-type std::size(const _Container &)': expects 1 arguments - 0 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(1149): message :  see declaration of 'std::size'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,28): error C2660:  'std::swap': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\exception(277,13): message :  see declaration of 'std::swap'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(152,4): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(153,4): error C3861:  'bubbleDown': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(166,15): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(166,41): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(169,16): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(172,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(172,24): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(175,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(175,25): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(187,20): error C2065:  'T': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(187,22): error C2146:  syntax error: missing ')' before identifier 'x'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(188,2): error C2143:  syntax error: missing ';' before '{'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(188,2): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(198,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(206,1): error C2059:  syntax error: 'private'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(209,15): error C2065:  'T': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(209,10): error C2923:  'std::pair': 'T' is not a valid template type argument for parameter '_Ty1'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(209,10): error C3203:  'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,16): error C2065:  'T': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,2): error C2923:  'std::unordered_map': 'T' is not a valid template type argument for parameter '_Kty'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(77,50): error C3203:  'hash': unspecialized class template can't be used as a template argument for template parameter '_Hasher', expected a real type
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(77,77): error C3203:  'equal_to': unspecialized class template can't be used as a template argument for template parameter '_Keyeq', expected a real type
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(78,30): error C3203:  'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,25): error C2133:  'I': unknown size
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,24): error C2512:  'std::unordered_map': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(79,1): message :  see declaration of 'std::unordered_map'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(211,1): error C2059:  syntax error: '}'
+  solve.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(211,1): error C2143:  syntax error: missing ';' before '}'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(126,15): error C2059:  syntax error: ')'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(138,2): error C2143:  syntax error: missing ';' before 'void'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(38,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(138): message :  see reference to class template instantiation 'MinPriorityQueue<T>' being compiled
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(48,3): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(49,3): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(49,28): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(50,12): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(62,8): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(62,22): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(64,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(64,16): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,10): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,12): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,25): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(65,27): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(67,13): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(67,27): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(81,12): error C2065:  'smallestChild': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(81,12): error C3861:  'smallestChild': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(81,25): message :  'smallestChild': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(89,8): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(89,23): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(91,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(91,17): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,10): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,12): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,26): error C3861:  'I': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(92,28): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(97,13): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(97,27): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(101,13): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(101,28): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(106,9): error C2065:  'smallestChild': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(106,9): error C3861:  'smallestChild': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(106,22): message :  'smallestChild': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(117,10): error C3861:  'H': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(126,15): error C2760:  syntax error: unexpected token '.', expected 'declaration'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(140,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(144,12): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(146,4): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,9): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,15): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,17): error C2672:  'std::size': no matching overloaded function found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,22): error C2780:  'size_t std::size(const _Ty (&)[_Size]) noexcept': expects 1 arguments - 0 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(1154): message :  see declaration of 'std::size'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,22): error C2780:  'unknown-type std::size(const _Container &)': expects 1 arguments - 0 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(1149): message :  see declaration of 'std::size'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(151,28): error C2660:  'std::swap': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\exception(277,13): message :  see declaration of 'std::swap'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(152,4): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(153,4): error C3861:  'bubbleDown': identifier not found
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(166,15): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(166,41): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(169,16): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(172,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(172,24): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(175,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(175,25): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(187,20): error C2065:  'T': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(187,22): error C2146:  syntax error: missing ')' before identifier 'x'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(188,2): error C2143:  syntax error: missing ';' before '{'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(188,2): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(198,7): error C2065:  'H': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(206,1): error C2059:  syntax error: 'private'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(209,15): error C2065:  'T': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(209,10): error C2923:  'std::pair': 'T' is not a valid template type argument for parameter '_Ty1'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(209,10): error C3203:  'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,16): error C2065:  'T': undeclared identifier
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,2): error C2923:  'std::unordered_map': 'T' is not a valid template type argument for parameter '_Kty'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(77,50): error C3203:  'hash': unspecialized class template can't be used as a template argument for template parameter '_Hasher', expected a real type
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(77,77): error C3203:  'equal_to': unspecialized class template can't be used as a template argument for template parameter '_Keyeq', expected a real type
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(78,30): error C3203:  'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,25): error C2133:  'I': unknown size
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(210,24): error C2512:  'std::unordered_map': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\unordered_map(79,1): message :  see declaration of 'std::unordered_map'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(211,1): error C2059:  syntax error: '}'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\minpriorityqueue.h(211,1): error C2143:  syntax error: missing ';' before '}'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\solve.cpp(189,14): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\solve.cpp(211,14): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\solve.cpp(228,1): error C2039:  'decrease_key': is not a member of 'MinPriorityQueue<Maze::Vertex *>'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\solve.cpp(54): message :  see declaration of 'MinPriorityQueue<Maze::Vertex *>'
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\solve.cpp(266,1): error C2039:  'empty': is not a member of 'MinPriorityQueue<Maze::Vertex *>'
+  Generating Code...
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ2\MZ2\MZ2\solve.cpp(54): message :  see declaration of 'MinPriorityQueue<Maze::Vertex *>'
