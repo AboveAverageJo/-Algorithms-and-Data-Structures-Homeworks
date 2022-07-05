@@ -1,0 +1,10 @@
+﻿  solve.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ1\MZ1\MZ1\solve.cpp(52,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ1\MZ1\MZ1\solve.cpp(296,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ1\MZ1\MZ1\solve.cpp(329,21): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  2 of 707 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MZ1.vcxproj -> C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MZ1\MZ1\Release\MZ1.exe
