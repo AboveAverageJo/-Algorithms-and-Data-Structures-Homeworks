@@ -1,0 +1,12 @@
+﻿  TrendTracker.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(37,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(69,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(85,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(116,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(183,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(202,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(221,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(259,15): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(270,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\TrendTracker.cpp(297,22): warning C4018:  '<': signed/unsigned mismatch
+  TrendTracker.vcxproj -> C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\TrendTracker\Debug\TrendTracker.exe
