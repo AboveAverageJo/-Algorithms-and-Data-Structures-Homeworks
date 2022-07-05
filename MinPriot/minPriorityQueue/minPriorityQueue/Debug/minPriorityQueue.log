@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MinPriot\minPriorityQueue\minPriorityQueue\main.cpp(21,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MinPriot\minPriorityQueue\minPriorityQueue\main.cpp(29,20): warning C4018:  '<': signed/unsigned mismatch
+  minPriorityQueue.vcxproj -> C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\MinPriot\minPriorityQueue\Debug\minPriorityQueue.exe
