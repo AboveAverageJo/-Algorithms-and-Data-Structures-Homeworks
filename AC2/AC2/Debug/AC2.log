@@ -1,0 +1,4 @@
+﻿  autocompleter.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC2\AC2\autocompleter.cpp(127,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC2\AC2\autocompleter.cpp(142,23): warning C4018:  '<': signed/unsigned mismatch
+  AC2.vcxproj -> C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC2\Debug\AC2.exe
