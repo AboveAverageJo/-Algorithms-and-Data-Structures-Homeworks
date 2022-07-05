@@ -1,0 +1,7 @@
+﻿  autocompleter.cpp
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC3\AC3\AC3\autocompleter.cpp(58,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC3\AC3\AC3\autocompleter.cpp(161,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC3\AC3\AC3\autocompleter.cpp(168,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC3\AC3\AC3\autocompleter.cpp(182,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC3\AC3\AC3\autocompleter.cpp(211): warning C4715:  'Autocompleter::size': not all control paths return a value
+  AC3.vcxproj -> C:\Users\joede\OneDrive\Visual Studio\CS3 Homework\AC3\AC3\Debug\AC3.exe
